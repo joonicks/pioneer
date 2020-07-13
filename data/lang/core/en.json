@@ -1292,7 +1292,7 @@
     "message": "Rubbish"
   },
   "SCOOP": {
-    "description": "Is followed by a number, repersenting scoop mounts/slots available to fit cargo scoop and/or fuel scoop",
+    "description": "Is followed by a number, representing scoop mounts/slots available to fit cargo scoop and/or fuel scoop equipment",
     "message": "Scoop"
   },
   "SCREENSHOT_FILENAME_TEMPLATE": {
@@ -1477,11 +1477,11 @@
   },
   "STAR_AF_HYPER_GIANT": {
     "description": "",
-    "message": "White hyper giant star"
+    "message": "White hypergiant star"
   },
   "STAR_AF_SUPER_GIANT": {
     "description": "",
-    "message": "White super giant star"
+    "message": "White supergiant star"
   },
   "STAR_B": {
     "description": "",
@@ -1493,11 +1493,11 @@
   },
   "STAR_B_HYPER_GIANT": {
     "description": "",
-    "message": "Blue hyper giant star"
+    "message": "Blue hypergiant star"
   },
   "STAR_B_SUPER_GIANT": {
     "description": "",
-    "message": "Blue super giant star"
+    "message": "Blue supergiant star"
   },
   "STAR_B_WF": {
     "description": "",
@@ -1517,11 +1517,11 @@
   },
   "STAR_G_HYPER_GIANT": {
     "description": "",
-    "message": "Yellow hyper giant star - Unstable"
+    "message": "Yellow hypergiant star - Unstable"
   },
   "STAR_G_SUPER_GIANT": {
     "description": "",
-    "message": "Yellow super giant star"
+    "message": "Yellow supergiant star"
   },
   "STAR_IM_BH": {
     "description": "",
@@ -1537,11 +1537,11 @@
   },
   "STAR_K_HYPER_GIANT": {
     "description": "",
-    "message": "Orange hyper giant star - Unstable"
+    "message": "Orange hypergiant star - Unstable"
   },
   "STAR_K_SUPER_GIANT": {
     "description": "",
-    "message": "Orange super giant star"
+    "message": "Orange supergiant star"
   },
   "STAR_M": {
     "description": "",
@@ -1553,11 +1553,11 @@
   },
   "STAR_M_HYPER_GIANT": {
     "description": "",
-    "message": "Red hyper giant star"
+    "message": "Red hypergiant star"
   },
   "STAR_M_SUPER_GIANT": {
     "description": "",
-    "message": "Red super giant star"
+    "message": "Red supergiant star"
   },
   "STAR_M_WF": {
     "description": "",
@@ -1569,15 +1569,15 @@
   },
   "STAR_O_GIANT": {
     "description": "",
-    "message": "Hot Blue giant star"
+    "message": "Hot blue giant star"
   },
   "STAR_O_HYPER_GIANT": {
     "description": "",
-    "message": "Hot Blue hyper giant star"
+    "message": "Hot blue hypergiant star"
   },
   "STAR_O_SUPER_GIANT": {
     "description": "",
-    "message": "Hot Blue super giant star"
+    "message": "Hot blue super giant star"
   },
   "STAR_O_WF": {
     "description": "",
